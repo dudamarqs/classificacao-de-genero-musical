@@ -2,9 +2,10 @@
 # Pipeline de tratamento de dados — Spotify Genre Classification
 # Equivalente R de preprocess_dataset() + save_processed_dataset_and_split()
 # =============================================================================
-# install.packages(c("dplyr", "jsonlite"))
+# install.packages(c("dplyr", "jsonlite", "lubridate"))
 # install.packages("randomForest")
 # install.packages("caret")
+library(lubridate)
 library(dplyr)
 library(jsonlite)
 library(randomForest)
@@ -276,8 +277,3 @@ treinar_random_forest <- function(train, test) {
 }
 
 resultado_modelo <- treinar_random_forest(train, test)
-
-str(resultado)
-head(resultado$train)
-head(resultado$test)
-View(resultado$train)
