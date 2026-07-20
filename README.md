@@ -4,8 +4,15 @@ Aplicação de técnicas de **Machine Learning** para classificar automaticament
 
 Trabalho da disciplina de Ciência de Dados do curso de Análise e Desenvolvimento de Sistemas da **Universidade Católica de Brasília (UCB)**, 2026.
 
-> **Orientador:** William Roberto Malvezzi
-> **Autores:** Gabryella Santos Pinho · Louie Nery Silva · Maria Eduarda Rita Marques Noleto · Nathanael Victor Paiva Magno · Ramon Miguel Rosa Pereira Ataides
+**Orientador:** William Roberto Malvezzi
+
+**Autores:**
+
+- Maria Eduarda Marques
+- Ramon Miguel Ataides
+- Louie Nery Silva
+- Gabryella Santos Pinho
+- Nathanael Victor Magno
 
 ---
 
