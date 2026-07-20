@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Artefatos regeneráveis (gerados ao rodar os scripts)
+python/artifacts/
+python/data/processed/
+python/data/splits/
+r/artifacts/
+r/data/processed/
+r/data/splits/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
